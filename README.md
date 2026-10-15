@@ -121,4 +121,4 @@ O jogo começa automaticamente quando todos os jogadores estiverem ligados.
 
 ## Licença
 
-Projeto académico, sem fins comerciais.
+Projeto académico.
