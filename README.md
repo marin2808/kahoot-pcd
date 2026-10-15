@@ -1,4 +1,4 @@
-# Kahoot — Jogo de perguntas multijogador (cliente/servidor)
+# Kahoot Jogo de perguntas multijogador (cliente/servidor)
 
 Implementação de um jogo de perguntas e respostas ao estilo Kahoot, com um **servidor** que gere vários jogos em simultâneo e **clientes** com interface gráfica que se ligam por sockets TCP. O foco do projeto é a **programação concorrente e distribuída**: threads, sincronização e coordenação entre jogadores.
 
