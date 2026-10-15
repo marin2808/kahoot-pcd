@@ -116,8 +116,8 @@ O jogo começa automaticamente quando todos os jogadores estiverem ligados.
 
 ## Autores
 
-- **Vicu Mindru** (n.º 99328)
-- **Marin Mindru** (n.º 99845)
+- **Vicu Mindru**
+- **Marin Mindru** 
 
 ## Licença
 
